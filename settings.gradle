@@ -1,0 +1,2 @@
+rootProject.name='TTP3 Currency Converter'
+include ':app'
